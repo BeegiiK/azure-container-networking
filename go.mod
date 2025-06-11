@@ -188,7 +188,7 @@ require (
 )
 
 replace (
-	github.com/microsoft/ApplicationInsights-Go => github.com/beegiik/ApplicationInsights-Go v1.67.0
+	github.com/microsoft/ApplicationInsights-Go => github.com/beegiik/ApplicationInsights-Go v1.7.0
 	github.com/onsi/ginkgo => github.com/onsi/ginkgo v1.12.0
 	github.com/onsi/gomega => github.com/onsi/gomega v1.10.0
 )
