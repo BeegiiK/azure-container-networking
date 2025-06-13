@@ -57,8 +57,8 @@ github.com/avast/retry-go/v3 v3.1.1 h1:49Scxf4v8PmiQ/nY0aY3p0hDueqSmc7++cBbtiDGu
 github.com/avast/retry-go/v3 v3.1.1/go.mod h1:6cXRK369RpzFL3UQGqIUp9Q7GDrams+KsYWrfNA1/nQ=
 github.com/avast/retry-go/v4 v4.6.1 h1:VkOLRubHdisGrHnTu89g08aQEWEgRU7LVEop3GbIcMk=
 github.com/avast/retry-go/v4 v4.6.1/go.mod h1:V6oF8njAwxJ5gRo1Q7Cxab24xs5NCWZBeaHHBklR8mA=
-github.com/beegiik/ApplicationInsights-Go v1.7.0 h1:8/Qr2hRZ8i/Ak/dGNtlxpzXQw6EMxIK92w6fclS4XWI=
-github.com/beegiik/ApplicationInsights-Go v1.7.0/go.mod h1:wGv9tvjn4hfY0O95MzNM7ftYfphBi0BGqknkBdFF/cM=
+github.com/beegiik/ApplicationInsights-Go v1.8.0 h1:9eQ7wk7o03GA7HM/oDSOf/STOq5YA09cJfUiZa0yobU=
+github.com/beegiik/ApplicationInsights-Go v1.8.0/go.mod h1:wGv9tvjn4hfY0O95MzNM7ftYfphBi0BGqknkBdFF/cM=
 github.com/beorn7/perks v1.0.1 h1:VlbKKnNfV8bJzeqoa4cOKqO6bYr3WgKZxO8Z16+hsOM=
 github.com/beorn7/perks v1.0.1/go.mod h1:G2ZrVWU2WbWT9wwq4/hrbKbnv/1ERSJQ0ibhJ6rlkpw=
 github.com/billgraziano/dpapi v0.5.0 h1:pcxA17vyjbDqYuxCFZbgL9tYIk2xgbRZjRaIbATwh+8=
